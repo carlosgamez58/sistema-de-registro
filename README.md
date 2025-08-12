@@ -5,3 +5,5 @@
 Para ejecutarl el sitema, debes poner:
 
 npn istall react
+
+Sistema de Registro 2
